@@ -1,6 +1,6 @@
 {
   "packageManager": "github",
-  "name": "Leaflet.shapeMarkers",
+  "name": "Leaflet.shapemarkers",
   "repo": "Esri/Leaflet.shapeMarkers",
   "files": {
     "basePath": "dist/",
